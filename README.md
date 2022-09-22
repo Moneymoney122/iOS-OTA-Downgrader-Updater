@@ -6,8 +6,8 @@ Table of contents:
    - [How to use this script](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#how-to-use-this-script)
      - [Dependencies for this script](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#dependencies-for-this-script)
        - [Issues](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#issues)
-        - [Possible future updates](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#possible-future-updates)
-          - [Images, No useful reason why I want to add them](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#images-no-useful-reason-why-i-want-to-add-them)
+         - [Possible future updates](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#possible-future-updates)
+           - [Images, No useful reason why I want to add them](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#images-no-useful-reason-why-i-want-to-add-them)
 
 ## What is this?
 
