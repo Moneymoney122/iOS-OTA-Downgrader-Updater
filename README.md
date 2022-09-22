@@ -5,7 +5,7 @@ Table of contents:
  - [What is this?](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#what-is-this)
    - [How to use this script](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#how-to-use-this-script)
      - [Dependencies for this script](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#dependencies-for-this-script)
-       - [Issues](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#issues)
+       - [Issues/Contact Me](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#issues)
          - [Possible future updates](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#possible-future-updates)
            - [Images, No useful reason why I want to add them](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#images-no-useful-reason-why-i-want-to-add-them)
 
@@ -40,7 +40,7 @@ This script will ask for your user's password, this is not intended to be anythi
 
 - git
 
-## Issues:
+## Issues/Contact Me:
 
 - If you have any issues with this script or any of my other projects, please open a github issue or contact me on twitter (@chandler_hacker)
 
