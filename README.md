@@ -46,7 +46,7 @@ This script will ask for your user's password, this is not intended to be anythi
 
 ## Possible future updates:
 
-- Currently looking to see whether it's possible to add the ability to check for updates on the iOS-OTA-Downgrader script
+- Currently looking to see whether it's possible to add the ability to check for updates on the iOS-OTA-Downgrader script, check to see if the dependencies are installed and what Linux distro this is running on
 
 ## Images, No useful reason why I want to add them:
 
