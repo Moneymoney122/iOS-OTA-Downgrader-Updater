@@ -1,6 +1,8 @@
-echo "Starting the backup process, this might take a while 
+echo "iOS-OTA-Downgrader-Updater script made by Moneymoney122 (@chandler_hacker)"
 
-sudo cp -r ~/iOS-OTA-Downgrader ~/iOD-Files-Backup
+echo "Starting the backup process, this might take a while"
+
+cp -r ~/iOS-OTA-Downgrader ~/iOD-Files-Backup
 
 echo "Finished copying the files over to the backup folder"
 
@@ -18,13 +20,15 @@ echo "Finished making a backup of the files"
 
 sudo rm -rf ~/iOS-OTA-Downgrader
 
-echo "Removed the currently downloaded iOS-OTA-Downgrader script, now going to download the latest version of the script"
+echo "Finished removing the currently downloaded iOS-OTA-Downgrader script, now going to download the latest version of the script"
 
 git clone https://github.com/LukeZGD/iOS-OTA-Downgrader
 
 echo "Finished downloading the script, now copying the backup of the files back to the script"
 
-sudo rsync -av ~/iOD-Files-Backup ~/iOS-OTA-Downgrader
+cp -r ~/iOD-Files-Backup/*.ipsw /iOS-OTA-Downgrader
+
+cp -r ~/iOD-Files-Backup/saved ~/iOS-OTA-Downgrader
 
 sudo rm -rf ~/iOD-Files-Backup
 
