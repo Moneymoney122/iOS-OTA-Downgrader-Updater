@@ -22,4 +22,4 @@
 
 ## Possible future updates:
 
-- Currently looking to see wether it's possible to add the ability to check for updates on the iOS-OTA-Downgrader script
+- Currently looking to see whether it's possible to add the ability to check for updates on the iOS-OTA-Downgrader script
