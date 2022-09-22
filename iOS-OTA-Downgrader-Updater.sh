@@ -1,8 +1,12 @@
+echo "Starting the backup process, this might take a while 
+
 sudo cp -r ~/iOS-OTA-Downgrader ~/iOD-Files-Backup
 
-cat "Copied files over to backup folder"
+echo "Finished copying the files over to the backup folder"
 
-sudo rm -rf ~/iOD-Files-Backup/resources
+echo "Removing the files that dont need to be backed up from the backup folder" 
+
+sudo rm -rf ~/iOD-Files-Backup/resources 
 
 sudo rm -rf ~/iOD-Files-Backup/restore.cmd
 
@@ -10,18 +14,20 @@ sudo rm -rf ~/iOD-Files-Backup/restore.sh
 
 sudo rm -rf ~/iOD-Files-Backup/README.md
 
-cat "Finished making a backup of the files"
+echo "Finished making a backup of the files"
 
 sudo rm -rf ~/iOS-OTA-Downgrader
 
-cat "removed the currently downloaded iOS-OTA-Downgrader script, now going to download the latest version of the script"
+echo "Removed the currently downloaded iOS-OTA-Downgrader script, now going to download the latest version of the script"
 
 git clone https://github.com/LukeZGD/iOS-OTA-Downgrader
 
-cat "Finished downloading the script, now copying the backup of the files back to the script"
+echo "Finished downloading the script, now copying the backup of the files back to the script"
 
-sudo cp -r ~/iOD-Files-Backup ~/iOS-OTA-Downgrader
+sudo rsync -av ~/iOD-Files-Backup ~/iOS-OTA-Downgrader
 
 sudo rm -rf ~/iOD-Files-Backup
 
-cat "successfuly completed the update"
+echo "Finished restoring the files and completed the update"
+
+echo "If you have any issues with this script or any of my other projects, please open a github issue or contact me on twitter (@chandler_hacker)"
