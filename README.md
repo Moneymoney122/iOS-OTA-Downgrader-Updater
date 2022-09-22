@@ -28,6 +28,8 @@ Table of contents:
 
 - Me (Moneymoney122) for making this script
 
+- rushia (@rushia27) for the idea/helping me make this and add features to it
+
 - LukeZGD for making the [iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) script
 
 ## How to use this script:
