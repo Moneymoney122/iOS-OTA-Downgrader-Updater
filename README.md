@@ -12,6 +12,17 @@
 
 - I have no idea why I made this script, and I have no idea if it is actually useful or not
 
+
+## How to use this script:
+
+ run `git clone https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater` in terminal or download the zip from this page
+
+`chmod +x iOS-OTA-Downgrader-Updater.sh`
+
+`./iOS-OTA-Downgrader-Updater.sh`
+
+This script will ask for your user's password, it is not intended to be anything malicious and you can check the code yourself if you want
+
 ## Dependencies for this script: 
 
 - rsync
