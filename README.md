@@ -1,6 +1,6 @@
 # iOS-OTA-Downgrader-Updater
 
-- This script is for updating the [iOS-OTA-Downgrader] (https://github.com/LukeZGD/iOS-OTA-Downgrader) script made by LukeZGD whilst keeping your custom iPSW files and SHSH blobs without having to manually copy them over
+- This script is for updating the [iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) script made by LukeZGD whilst keeping your custom iPSW files and SHSH blobs without having to manually copy them over
 
 - This script is not made by LukeZGD, it is made by me (Moneymoney122)
 
@@ -14,6 +14,6 @@
 
 - rsync
 
-## Issues
+## Issues:
 
 - If you have any issues with this script or any of my other projects, please open a github issue or contact me on twitter (@chandler_hacker)
