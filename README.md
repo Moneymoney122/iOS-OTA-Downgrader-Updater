@@ -21,7 +21,7 @@
 
 `./iOS-OTA-Downgrader-Updater.sh`
 
-This script will ask for your user's password, it is not intended to be anything malicious and you can check the code yourself if you want
+This script will ask for your user's password, this is not intended to be anything malicious and you can check the code yourself if you want
 
 ## Dependencies for this script: 
 
