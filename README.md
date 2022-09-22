@@ -27,6 +27,8 @@ This script will ask for your user's password, it is not intended to be anything
 
 - ~~rsync~~ *no longer need rsync*
 
+- git
+
 ## Issues:
 
 - If you have any issues with this script or any of my other projects, please open a github issue or contact me on twitter (@chandler_hacker)
