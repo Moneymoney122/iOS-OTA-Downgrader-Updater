@@ -37,5 +37,9 @@ This script will ask for your user's password, this is not intended to be anythi
 
 - Currently looking to see whether it's possible to add the ability to check for updates on the iOS-OTA-Downgrader script
 
+## Images, No useful reason why I want to add them:
+
+- iOS 6
+
 ![This is an image](http://static3.wikia.nocookie.net/__cb20130205030558/logopedia/images/e/e7/Ios-6-logo-hi-res-460x4601.jpg)
 
