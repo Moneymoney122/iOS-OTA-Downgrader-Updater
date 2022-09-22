@@ -25,7 +25,7 @@ This script will ask for your user's password, it is not intended to be anything
 
 ## Dependencies for this script: 
 
-- rsync
+- ~~rsync~~ *no longer need rsync*
 
 ## Issues:
 
