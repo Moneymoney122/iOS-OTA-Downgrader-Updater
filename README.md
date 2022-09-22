@@ -10,6 +10,8 @@
 
 - Use it at your own risk, I am not responsible for any damage it may cause.
 
+- I have no idea why I made this script, and I have no idea if it is actually useful or not
+
 ## Dependencies for this script: 
 
 - rsync
