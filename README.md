@@ -2,13 +2,14 @@
 
 Table of contents:
 
- - [What is this?](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#what-is-this)
+- [What is this?](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#what-is-this)
+ - [Credits](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#credits)
    - [How to use this script](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#how-to-use-this-script)
      - [Dependencies for this script](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#dependencies-for-this-script)
        - [Issues/Contact Me](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#issues)
          - [Possible future updates](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#possible-future-updates)
            - [Images, No useful reason why I want to add them](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#images-no-useful-reason-why-i-want-to-add-them)
-
+              
 ## What is this?
 
 - This script is for updating the [iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) script made by LukeZGD whilst keeping your custom iPSW files and SHSH blobs without having to manually copy them over
@@ -23,6 +24,11 @@ Table of contents:
 
 - I have no idea why I made this script, and I have no idea if it is actually useful or not
 
+## Credits:
+
+- Me (Moneymoney122) for making this script
+
+- LukeZGD for making the [iOS-OTA-Downgrader](https://github.com/LukeZGD/iOS-OTA-Downgrader) script
 
 ## How to use this script:
 
