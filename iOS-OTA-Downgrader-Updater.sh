@@ -6,7 +6,7 @@ cp -r ~/iOS-OTA-Downgrader ~/iOD-Files-Backup
 
 echo "Finished copying the files over to the backup folder"
 
-echo "Removing the files that dont need to be backed up from the backup folder" 
+echo "Removing the files that dont need to be backed up, from the backup folder" 
 
 sudo rm -rf ~/iOD-Files-Backup/resources 
 
