@@ -19,3 +19,7 @@
 ## Issues:
 
 - If you have any issues with this script or any of my other projects, please open a github issue or contact me on twitter (@chandler_hacker)
+
+## Possible future updates:
+
+- Currently looking to see wether it's possible to add the ability to check for updates on the iOS-OTA-Downgrader script
