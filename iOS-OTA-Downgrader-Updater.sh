@@ -26,9 +26,7 @@ git clone https://github.com/LukeZGD/iOS-OTA-Downgrader
 
 echo "Finished downloading the script, now copying the backup of the files back to the script"
 
-cp -r ~/iOD-Files-Backup/*.ipsw /iOS-OTA-Downgrader
-
-cp -r ~/iOD-Files-Backup/saved ~/iOS-OTA-Downgrader
+cp -r ~/iOD-Files-Backup/* /iOS-OTA-Downgrader
 
 sudo rm -rf ~/iOD-Files-Backup
 
