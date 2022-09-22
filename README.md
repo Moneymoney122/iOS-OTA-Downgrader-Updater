@@ -2,8 +2,8 @@
 
 Table of contents:
 
-- [What is this?](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#what-is-this)
- - [Credits](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#credits)
+ - [What is this?](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#what-is-this)
+  - [Credits](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#credits)
    - [How to use this script](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#how-to-use-this-script)
      - [Dependencies for this script](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#dependencies-for-this-script)
        - [Issues/Contact Me](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#issues)
