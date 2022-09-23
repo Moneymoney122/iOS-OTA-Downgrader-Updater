@@ -36,6 +36,8 @@ Table of contents:
 
  run `git clone https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater` in terminal or download the zip from this page
 
+`cd ~/iOS-OTA-Downgrader-Updater/`
+
 `chmod +x iOS-OTA-Downgrader-Updater.sh`
 
 `./iOS-OTA-Downgrader-Updater.sh`
