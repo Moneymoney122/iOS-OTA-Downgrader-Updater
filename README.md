@@ -24,6 +24,8 @@ Table of contents:
 
 - I have no idea why I made this script, and I have no idea if it is actually useful or not
 
+- Released on the 21st September 2022
+
 ## Credits:
 
 - Me (Moneymoney122) for making this script
