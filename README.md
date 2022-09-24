@@ -26,6 +26,8 @@ Table of contents:
 
 - Released on the 21st of September 2022
 
+- License: GPL-3.0 license
+
 ## Credits:
 
 - Me (Moneymoney122) for making this script
