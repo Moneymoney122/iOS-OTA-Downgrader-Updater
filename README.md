@@ -24,7 +24,7 @@ Table of contents:
 
 - I have no idea why I made this script, and I have no idea if it is actually useful or not
 
-- Released on the 21st September 2022
+- Released on the 21st of September 2022
 
 ## Credits:
 
@@ -36,7 +36,7 @@ Table of contents:
 
 ## How to use this script:
 
- run `git clone https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater` in terminal or download the zip from this page
+ run `git clone https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater` in the terminal while in your home directory or download the zip from this page and unzip the files and place them in a folder called "iOS-OTA-Downgrader-Updater" (without the quotes) in your home directory
 
 `cd ~/iOS-OTA-Downgrader-Updater/`
 
