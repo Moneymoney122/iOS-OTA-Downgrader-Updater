@@ -1,5 +1,7 @@
 echo "iOS-OTA-Downgrader-Updater script made by Moneymoney122 (@chandler_hacker)"
 
+rm ~/iOS-OTA-Downgrader-Updater/index.html
+
 echo "Starting the backup process, this might take a while"
 
 cp -r ~/iOS-OTA-Downgrader ~/iOD-Files-Backup
