@@ -16,7 +16,7 @@ Table of contents:
 
 - This script is not made by LukeZGD, it is made by me (Moneymoney122)
 
-- It is intended for use on linux
+- It is intended for use on linux (only tested on Arch Linux, but should work on every distro)
 
 - It may or may not work
 
