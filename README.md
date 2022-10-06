@@ -1,6 +1,8 @@
 # iOS-OTA-Downgrader-Updater
 
-## I have just realised that this script is useless becuase the `git pull` command exists, so you can just use that instead
+## I have just realised that this script is useless becuase the `git pull` command exists, so you can just use that instead to update iOS-OTA-Downgrader
+
+- run `~/cd iOS-OTA-Downgrader/ && git pull`
 
 Table of contents:
 
