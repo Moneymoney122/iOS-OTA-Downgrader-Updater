@@ -4,7 +4,7 @@
 
 - run `~/cd iOS-OTA-Downgrader/ && git pull`
 
-Table of contents:
+## Table of contents:
 
  - [What is this?](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#what-is-this) 
    - [Credits](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#credits)
