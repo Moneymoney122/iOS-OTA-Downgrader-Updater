@@ -1,5 +1,7 @@
 # iOS-OTA-Downgrader-Updater
 
+## I have just realised that this script is useless becuase the `git pull` command exists, so you can just use that instead
+
 Table of contents:
 
  - [What is this?](https://github.com/Moneymoney122/iOS-OTA-Downgrader-Updater#what-is-this) 
